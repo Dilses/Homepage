@@ -1,1 +1,13 @@
-
+.title{
+    position: absolute;
+    top: calc(50vh - 13em);
+    left: 0;
+    right: 0;
+    flex-direction: column;
+}
+.title h1{
+    font-size: 10em;
+}
+.title h2{
+    font-size: 3em;
+}
